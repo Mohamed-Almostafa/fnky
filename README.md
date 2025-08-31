@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="Logo" width="120">
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
@@ -35,3 +35,4 @@
 <div align="center">
 <img src="https://profile-counter.glitch.me/YourUserName/count.svg" alt="hit counter" align="center">
 </div>
+
