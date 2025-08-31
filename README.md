@@ -1,47 +1,37 @@
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="Logo" width="120">
 </div>
 
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
-<div align="center">
-to my personal GitHub profile!
-</div>
+<h2 align="center">I'm Mohamed Al-Mustafa</h2>
+<h3 align="center">Front-End Developer</h3>
+
+<hr>
 
 <h3 align="center">
-أنا <strong>محمد المصطفى</strong> - مبرمج <strong>Front-End</strong>
-</h3>
-
-<h3 align="center">
-<a href="https://cbp.io">Visit my personal homepage
-<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
-</a>
+<a href="https://github.com/YourUserName">🔗 GitHub</a> |
+<a href="https://www.facebook.com/profile.php?id=100037406833216">🔗 Facebook</a>
 </h3>
 
 <hr>
 
 <div align="center">
 <p>Write something nice in my guest book:</p>
-<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/YourUserName/YourRepo/issues">
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center">
+</a>
 </div>
 
 <hr>
 
 <div align="center">
 <p>Have a good day!</p>
-<div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
-</div>
 
 <div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/YourUserName/count.svg" alt="hit counter" align="center">
 </div>
-
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
-</div>
-
